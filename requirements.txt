@@ -1,5 +1,3 @@
-pip freeze helps us identify the installed versions so we can reproduce the environment.
-
 streamlit
 pandas
 numpy
